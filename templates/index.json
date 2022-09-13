@@ -208,6 +208,59 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1663093054013a233f": {
+      "type": "testimonial-slider",
+      "blocks": {
+        "26894c22-b68a-46d2-b699-bdeb9be2b430": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "name": "Roy Saucedo",
+            "image": "shopify:\/\/shop_images\/Frame_1_60.png"
+          }
+        },
+        "35addd55-6cbf-4b15-a7d6-1a22f226169f": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "name": "Roy",
+            "image": "shopify:\/\/shop_images\/Frame_1_60.png"
+          }
+        },
+        "8efef4e6-b5ab-44e7-849d-20602fb9704f": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "name": "Roy",
+            "image": "shopify:\/\/shop_images\/Frame_1_60.png"
+          }
+        },
+        "33be37a7-c5cc-41fb-8479-bc905b71777a": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "name": "Roy",
+            "image": "shopify:\/\/shop_images\/Frame_1_60.png"
+          }
+        },
+        "0fc053ce-b088-4280-92bf-1bc6c6faa03e": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "name": "Roy",
+            "image": "shopify:\/\/shop_images\/Frame_1_60.png"
+          }
+        }
+      },
+      "block_order": [
+        "26894c22-b68a-46d2-b699-bdeb9be2b430",
+        "35addd55-6cbf-4b15-a7d6-1a22f226169f",
+        "8efef4e6-b5ab-44e7-849d-20602fb9704f",
+        "33be37a7-c5cc-41fb-8479-bc905b71777a",
+        "0fc053ce-b088-4280-92bf-1bc6c6faa03e"
+      ],
+      "settings": {}
     }
   },
   "order": [
@@ -216,6 +269,7 @@
     "featured_collection",
     "collage",
     "video",
-    "multicolumn"
+    "multicolumn",
+    "1663093054013a233f"
   ]
 }

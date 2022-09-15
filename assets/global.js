@@ -932,3 +932,37 @@ $(document).ready(function(){
 });
 
 
+
+$(document).ready(function(){
+  $('.slider').slick({
+    slidesToShow: 1,
+    infinite: true,
+    autoplay: false,
+    autoplaySpeed: 2000,
+    arrows: true,
+    dots: true,
+    slidesToScroll: 1,
+    responsive: [
+        {
+        breakpoint: 989,
+        settings: {
+            infinite: true,  
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            arrows: true
+        }
+        },
+        {
+        breakpoint: 750,
+        settings: {
+            infinite: true,
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            arrows: true
+        }
+        }
+    ]
+  });
+
+});
+

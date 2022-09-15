@@ -261,6 +261,133 @@
         "0fc053ce-b088-4280-92bf-1bc6c6faa03e"
       ],
       "settings": {}
+    },
+    "166317898751abd320": {
+      "type": "slideshow-with-text",
+      "blocks": {
+        "1663178987268f688b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "1663178987268f688b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1663178987268f688b-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1663178987268f688b-0",
+        "1663178987268f688b-1",
+        "1663178987268f688b-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Frame_1_60.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "166317949725399cc4": {
+      "type": "slideshow",
+      "disabled": true,
+      "blocks": {
+        "16631794968275660a-0": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "16631794968275660a-1": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16631794968275660a-0",
+        "16631794968275660a-1"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "1663182222b42bf27a": {
+      "type": "slideshow-remove-text",
+      "blocks": {
+        "16631822210897da93-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frame_1_60.png"
+          }
+        },
+        "16631822210897da93-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pexels-tiger-lily-4481259.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "16631822210897da93-0",
+        "16631822210897da93-1"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
     }
   },
   "order": [
@@ -270,6 +397,9 @@
     "collage",
     "video",
     "multicolumn",
-    "1663093054013a233f"
+    "1663093054013a233f",
+    "166317898751abd320",
+    "166317949725399cc4",
+    "1663182222b42bf27a"
   ]
 }

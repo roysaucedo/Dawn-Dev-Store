@@ -900,6 +900,11 @@ class VariantRadios extends VariantSelects {
 
 customElements.define('variant-radios', VariantRadios);
 
+
+
+
+
+
 $(document).ready(function(){
   $('.testimonial-slider').slick({
     slidesToShow: 3,

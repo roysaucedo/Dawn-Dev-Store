@@ -937,8 +937,8 @@ $(document).ready(function(){
   $('.slider').slick({
     slidesToShow: 1,
     infinite: true,
-    autoplay: false,
-    autoplaySpeed: 2000,
+    autoplay: true,
+    autoplaySpeed: 3000,
     arrows: true,
     dots: true,
     slidesToScroll: 1,
@@ -949,7 +949,8 @@ $(document).ready(function(){
             infinite: true,  
             slidesToShow: 1,
             slidesToScroll: 1,
-            arrows: true
+            arrows: true,
+            autoplay: true,
         }
         },
         {
@@ -958,7 +959,8 @@ $(document).ready(function(){
             infinite: true,
             slidesToShow: 1,
             slidesToScroll: 1,
-            arrows: true
+            arrows: true,
+            autoplay: true,
         }
         }
     ]

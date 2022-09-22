@@ -47,6 +47,7 @@
         "text": "<p>Bold text<\/p>",
         "button_label": "Button",
         "button_url": "shopify:\/\/pages\/faq-page",
+        "autoplay": "true",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
